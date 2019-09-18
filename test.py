@@ -1,3 +1,4 @@
+# by YANSIMPLE
 from path import prettyPATH
 
 enter1 = "/var/test/../lib/./foo"
@@ -20,24 +21,20 @@ if prettyPATH(enter1) == exit1:
 else:
     print("test 1 = wrong!")
 
-
 if prettyPATH(enter1) == exit1:
     print("test 2 = right!")
 else:
     print("test 2 = wrong!")
-
 
 if prettyPATH(enter3) == exit3:
     print("test 3 = right!")
 else:
     print("test 3 = wrong!")
 
-
 if prettyPATH(enter4) == exit4:
     print("test 4 = right!")
 else:
     print("test 4 = wrong!")
-
 
 if prettyPATH(enter5) == exit5:
     print("test 5 = right!")
