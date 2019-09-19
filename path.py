@@ -1,4 +1,4 @@
-# by YANSIMPLEˇ
+# by YANSIMPLE 663737
 def prettyPATH(x):
     items = x.split("/")
     

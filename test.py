@@ -1,4 +1,4 @@
-# by YANSIMPLE
+# by YANSIMPLE 123
 from path import prettyPATH
 
 enter1 = "/var/test/../lib/./foo"
